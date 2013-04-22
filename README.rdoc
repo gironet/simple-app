@@ -1,0 +1,20 @@
+This is very simple blog in Ruby on Rails.
+
+== Getting Started
+
+1. Clone repository
+
+     git clone git@github.com:kelso/simple-blog.git
+
+2. Cd in folder and run bundle command
+
+     cd simple-blog
+     bundle
+
+3. Prepare DB
+
+     rake db:setup
+
+4. Start server
+
+     rails s
