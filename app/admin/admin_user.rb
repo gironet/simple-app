@@ -7,6 +7,12 @@ ActiveAdmin.register AdminUser do
     default_actions                   
   end                                 
 
+
+fdasdfas
+f
+assert_difference "fdasdfas.count", 1 do
+  
+end
   filter :email                       
 
   form do |f|                         
