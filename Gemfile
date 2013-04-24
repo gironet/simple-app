@@ -23,6 +23,7 @@ end
 gem 'jquery-rails'
 gem 'activeadmin'
 gem 'formtastic'
+gem "cancan"
 
 
 # To use ActiveModel has_secure_password
